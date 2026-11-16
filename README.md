@@ -98,6 +98,6 @@ Source, tests and build scripts can be published independently of personal data.
 
 Created and directed by **PitaChib**, with **ChatGPT / OpenAI Codex** assisting with implementation, debugging, tests, documentation and artwork prompts.
 
-The medieval scholar-and-hourglass artwork was **AI-generated in ChatGPT using OpenAI image generation**, under PitaChib’s direction. It is the earlier medieval woodcut version, before the biology/PhD additions.
+The medieval scholar-and-hourglass artwork was **AI-generated in ChatGPT using OpenAI image generation**, under PitaChib’s direction. 
 
 The visual reference and whip-wielding taskmaster concept were inspired by **Anna Belfrage’s** October 14, 2020 post, [“When my imaginary taskmasker wields the whip – a post about inspiration and discipline”](https://www.annabelfrage.com/2020/10/14/when-my-imaginary-taskmasker-wields-the-whip-a-post-about-inspiration-and-discipline/). The linked article and its original images are not included in this repository or relicensed by this project. No endorsement by the author is implied. See [CREDITS.md](CREDITS.md).
